@@ -15,7 +15,8 @@ riešte vo svojom repozitári v aplikácii
 | Týždeň | Prezentácie z prednášok | Praktické úlohy |
 |-------:|-------------------------|-----------------|
 |  1 | [Úvod. Atomické formuly a štruktúry](https://fmfi-uk-1-ain-412.github.io/lpi/prednasky/pr01.pdf) | [SAT solver](prakticke/pu01) |
-|  2 | [Výrokovologické spojky a ohodnotenia](https://fmfi-uk-1-ain-412.github.io/lpi/prednasky/pr02.pdf) | |
+|  2 | [Výrokovologické spojky a ohodnotenia](https://fmfi-uk-1-ain-412.github.io/lpi/prednasky/pr02.pdf) | [Sudoku](prakticke/pu02) |
+|  3 | [Výrokovologické vyplývanie, sémantické vlastnosti formúl a ekvivalencia](https://fmfi-uk-1-ain-412.github.io/lpi/prednasky/pr03.pdf) | |
 
 Návody a dokumenty
 ------------------
